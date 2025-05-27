@@ -1,0 +1,5 @@
+	1	2
+train_AvgLoss	239.9878692626953	238.80921936035156
+val_AvgLoss	239.65811157226562	237.59814453125
+train_AvgAccuracy	0.0	0.0
+val_AvgAccuracy	0.0	0.0

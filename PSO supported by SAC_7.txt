@@ -1,0 +1,32 @@
+Step: 0, 
+State: {'piston_0': array([ 3.44, 10.83, 58.37, 18.64, 12.16], dtype=float32), 'piston_1': array([ 3.1 ,  8.35, 25.22, 16.26, 50.17], dtype=float32), 'piston_2': array([ 5.  , 15.19, 32.94, 20.65, 31.22], dtype=float32), 'piston_3': array([ 3.26, 10.47, 24.24, 35.66, 29.63], dtype=float32), 'piston_4': array([ 3.98,  8.99, 51.37, 26.52, 13.12], dtype=float32), 'piston_5': array([ 4.61, 11.21, 23.14, 23.38, 42.27], dtype=float32), 'piston_6': array([ 3.47,  9.91, 68.22, 10.03, 11.84], dtype=float32)},
+Current_score:{'piston_0': -21.082027, 'piston_1': -15.495653, 'piston_2': -18.635717, 'piston_3': -16.919847, 'piston_4': -20.134935, 'piston_5': -16.630075, 'piston_6': -17.290564}                 
+best: {'piston_0': inf, 'piston_1': inf, 'piston_2': inf, 'piston_3': inf, 'piston_4': inf, 'piston_5': inf, 'piston_6': inf},
+best_posion:{'piston_0': array([ 3.44, 10.83, 58.37, 18.64, 12.16], dtype=float32), 'piston_1': array([ 3.1 ,  8.35, 25.22, 16.26, 50.17], dtype=float32), 'piston_2': array([ 5.  , 15.19, 32.94, 20.65, 31.22], dtype=float32), 'piston_3': array([ 3.26, 10.47, 24.24, 35.66, 29.63], dtype=float32), 'piston_4': array([ 3.98,  8.99, 51.37, 26.52, 13.12], dtype=float32), 'piston_5': array([ 4.61, 11.21, 23.14, 23.38, 42.27], dtype=float32), 'piston_6': array([ 3.47,  9.91, 68.22, 10.03, 11.84], dtype=float32)},                
+self.globe_best_positions:[ 3.44 10.83 58.37 18.64 12.16],                
+self.global_best_score:-21.082027435302734
+
+Step: 1, 
+State: {'piston_0': array([ 3.44, 10.83, 58.37, 18.64, 12.16], dtype=float32), 'piston_1': array([ 3.26,  9.49, 40.47, 17.35, 32.69], dtype=float32), 'piston_2': array([ 4.28, 13.18, 44.64, 19.73, 22.45], dtype=float32), 'piston_3': array([ 3.29, 10.53, 29.7 , 32.94, 26.83], dtype=float32), 'piston_4': array([ 3.9 ,  9.25, 52.35, 25.42, 12.99], dtype=float32), 'piston_5': array([ 4.07, 11.04, 39.35, 21.2 , 28.42], dtype=float32), 'piston_6': array([ 3.46, 10.33, 63.69, 13.99, 11.99], dtype=float32)}, 
+Current_score:{'piston_0': -21.082027, 'piston_1': -16.922047, 'piston_2': -14.187322, 'piston_3': -15.361664, 'piston_4': -20.725988, 'piston_5': -15.637882, 'piston_6': -18.352201}                
+best: {'piston_0': -21.082027, 'piston_1': -16.922047, 'piston_2': -18.635717, 'piston_3': -16.919847, 'piston_4': -20.725988, 'piston_5': -16.630075, 'piston_6': -18.352201},
+best_posion:{'piston_0': array([ 3.44, 10.83, 58.37, 18.64, 12.16], dtype=float32), 'piston_1': array([ 3.26,  9.49, 40.47, 17.35, 32.69], dtype=float32), 'piston_2': array([ 5.  , 15.19, 32.94, 20.65, 31.22], dtype=float32), 'piston_3': array([ 3.26, 10.47, 24.24, 35.66, 29.63], dtype=float32), 'piston_4': array([ 3.9 ,  9.25, 52.35, 25.42, 12.99], dtype=float32), 'piston_5': array([ 4.61, 11.21, 23.14, 23.38, 42.27], dtype=float32), 'piston_6': array([ 3.46, 10.33, 63.69, 13.99, 11.99], dtype=float32)},                
+self.globe_best_positions:[ 3.44 10.83 58.37 18.64 12.16],                
+self.global_best_score:-21.082027435302734
+
+Step: 2, 
+State: {'piston_0': array([ 3.44, 10.83, 58.37, 18.64, 12.16], dtype=float32), 'piston_1': array([ 3.48, 11.07, 61.54, 17.39, 10.  ], dtype=float32), 'piston_2': array([ 3.19, 10.13, 62.44, 17.43, 10.  ], dtype=float32), 'piston_3': array([ 3.28, 10.51, 27.95, 33.81, 27.73], dtype=float32), 'piston_4': array([ 3.9 ,  9.25, 52.36, 25.41, 12.98], dtype=float32), 'piston_5': array([ 3.49, 10.85, 56.71, 18.86, 13.58], dtype=float32), 'piston_6': array([ 3.48, 10.67, 59.08, 17.16, 13.09], dtype=float32)}, 
+Current_score:{'piston_0': -21.082027, 'piston_1': -18.235395, 'piston_2': -17.889805, 'piston_3': -15.968601, 'piston_4': -20.735922, 'piston_5': -21.08483, 'piston_6': -20.890669}                
+best: {'piston_0': -21.082027, 'piston_1': -18.235395, 'piston_2': -18.635717, 'piston_3': -16.919847, 'piston_4': -20.735922, 'piston_5': -21.08483, 'piston_6': -20.890669},
+best_posion:{'piston_0': array([ 3.44, 10.83, 58.37, 18.64, 12.16], dtype=float32), 'piston_1': array([ 3.48, 11.07, 61.54, 17.39, 10.  ], dtype=float32), 'piston_2': array([ 5.  , 15.19, 32.94, 20.65, 31.22], dtype=float32), 'piston_3': array([ 3.26, 10.47, 24.24, 35.66, 29.63], dtype=float32), 'piston_4': array([ 3.9 ,  9.25, 52.36, 25.41, 12.98], dtype=float32), 'piston_5': array([ 3.49, 10.85, 56.71, 18.86, 13.58], dtype=float32), 'piston_6': array([ 3.48, 10.67, 59.08, 17.16, 13.09], dtype=float32)},                
+self.globe_best_positions:[ 3.49 10.85 56.71 18.86 13.58],                
+self.global_best_score:-21.084829330444336
+
+Step: 3, 
+State: {'piston_0': array([ 3.49, 10.85, 56.83, 18.84, 13.48], dtype=float32), 'piston_1': array([ 3.65, 11.86, 68.14, 10.  , 10.  ], dtype=float32), 'piston_2': array([ 3.,  6., 74., 10., 10.], dtype=float32), 'piston_3': array([ 3.29, 10.53, 29.17, 33.12, 27.18], dtype=float32), 'piston_4': array([ 3.91,  9.23, 52.25, 25.5 , 13.02], dtype=float32), 'piston_5': array([ 3.  ,  9.75, 70.25, 10.  , 10.  ], dtype=float32), 'piston_6': array([ 3.49, 10.94, 55.73, 19.7 , 13.63], dtype=float32)}, 
+Current_score:{'piston_0': -21.223146, 'piston_1': -17.18115, 'piston_2': -16.587675, 'piston_3': -15.596741, 'piston_4': -20.667685, 'piston_5': -16.554562, 'piston_6': -21.055243}                
+best: {'piston_0': -21.223146, 'piston_1': -18.235395, 'piston_2': -18.635717, 'piston_3': -16.919847, 'piston_4': -20.735922, 'piston_5': -21.08483, 'piston_6': -21.055243},
+best_posion:{'piston_0': array([ 3.49, 10.85, 56.83, 18.84, 13.48], dtype=float32), 'piston_1': array([ 3.48, 11.07, 61.54, 17.39, 10.  ], dtype=float32), 'piston_2': array([ 5.  , 15.19, 32.94, 20.65, 31.22], dtype=float32), 'piston_3': array([ 3.26, 10.47, 24.24, 35.66, 29.63], dtype=float32), 'piston_4': array([ 3.9 ,  9.25, 52.36, 25.41, 12.98], dtype=float32), 'piston_5': array([ 3.49, 10.85, 56.71, 18.86, 13.58], dtype=float32), 'piston_6': array([ 3.49, 10.94, 55.73, 19.7 , 13.63], dtype=float32)},                
+self.globe_best_positions:[ 3.49 10.85 56.83 18.84 13.48],                
+self.global_best_score:-21.223146438598633
+
